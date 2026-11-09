@@ -615,7 +615,7 @@ padding: 50px;
 }
 }
 
-@media( max-width:349px){
+@media( max-width:420px){
     button{
     margin-left: 40px;
     margin-top: 20px;
@@ -633,7 +633,7 @@ padding: 50px;
 
 .allside{
     padding: 1px;
-    top: 10px;
+    top: 100px;
     gap: 20px;
     padding-left: 20px;
 
@@ -651,10 +651,15 @@ padding: 50px;
 
 .across hr{
     width: 40px;
-    margin-left: 150px;
+    margin-left: 180px;
     margin-top: 10px;
     background-color: orangered;
     height: 3px;
+}
+
+
+.Customer hr{
+    margin-left: 200px;
 }
 
 
@@ -664,7 +669,7 @@ padding: 50px;
 
 
 .Customer hr{
-    margin-left: 140px;
+    margin-left: 170px;
 }
 
 
